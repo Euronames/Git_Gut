@@ -1,7 +1,5 @@
 Hej
-<<<<<<< HEAD
 *Okay keep your secrets*
-=======
 
 
 
@@ -20,4 +18,3 @@ V  \
              `-.__  `----"""    __.-'
                   `--..____..--'
 Hello There!
->>>>>>> 78d69f83a5de5aea158f5cca1270df719cb3c40a
