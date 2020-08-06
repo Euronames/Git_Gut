@@ -1,3 +1,7 @@
 Init File
 Hello does this work?
+<<<<<<< HEAD
 Add more to my file
+=======
+yes
+>>>>>>> 00462db6923e7d32f38ed62089e32b25f1cbf944
