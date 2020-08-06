@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ========================================fortnite.txt Frederik.txt GutGuyGit.txt house.txt Jens.txt myPokeFile.txt private_pls_dont_open.txt README.md fortnite.txt Frederik.txt GutGuyGit.txt house.txt Jens.txt myPokeFile.txt private_pls_dont_open.txt README.md
 =======
 |
@@ -9,3 +10,12 @@
 |
 ========================================
 >>>>>>> c0809733d5b9ef708daff90111fc9562ed600c61
+=======
+|                                       |
+|                                       |
+|                                       |
+|                                       |
+|                                       |
+|                                       |
+========================================
+>>>>>>> fdd393774a9570a6b7eeb0a5d9ea24755a277220
