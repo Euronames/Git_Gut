@@ -1,3 +1,11 @@
 Init File
 Hello does this work?
+<<<<<<< HEAD
 yes*A wizard allways arrives exactly when he means to*
+=======
+<<<<<<< HEAD
+Add more to my file
+=======
+yes
+>>>>>>> 00462db6923e7d32f38ed62089e32b25f1cbf944
+>>>>>>> 08f1e0d645d27914d84560be1e69bcd91f0a86f4
